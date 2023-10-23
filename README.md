@@ -1,8 +1,14 @@
-# Atividade individual - Tema: Alunos e Cidades (INNER JOIN E ALIASES)
+# Atividade individual - Tema: Stored Procedures
 
-## Durante a aula 7, segui as instruções fornecidas nos slides 61 e 62 do material apresentado. Primeiro, criei duas tabelas de acordo com o modelo fornecido, garantindo que os campos correspondessem ao exemplo dado nos slides. Em seguida, inseri os valores nas tabelas, seguindo as informações e dados apresentados nos slides. Para praticar e compreender melhor o conceito, apliquei o exemplo de inner join mencionado no slide 67 do material que foi indicado. 
 
-![Relacionamento](Relecionamento%20png%201.png)
+## Parte Lógica
+
+![Lógica](Atividade%20individual_Tema_Stored%20Procedures(Lógico)%20.png)
+
+
+## Criei um banco de dados para universidade, com tabelas para alunos, cursos e professores. Usei Stored Procedures para inserção e seleção de cursos e gerei automaticamente os e-mails dos alunos no formato "nome.sobrenome@dominio.com".
+
+![PNG](Stored%20png%201.png)
 
 Script SQL:
-[SQL](Relecionamento%20-%201.sql)
+[SQL](Stored%20Procedures%202023-10-22.sql)
